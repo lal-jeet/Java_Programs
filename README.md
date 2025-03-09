@@ -1,5 +1,5 @@
 # Java_Programs
-In this Repository every programs belongs to java_core programming.
+In this Repository every programs belongs to java_core programming and OOP concept.
 
 # Roadmap for learning java and what i will add some topics in upcoming days
 
