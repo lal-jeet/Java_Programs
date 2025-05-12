@@ -1,0 +1,18 @@
+WAP to show array length property is created during runtime
+package com.ravi.array_programs;
+
+import java.util.Arrays;
+
+public class ArrayDemo2 {
+
+	public static void main(String[] args) 
+	{
+	   int arr[] = {12,89,90};
+	   System.out.println("Array Elements are :"+Arrays.toString(arr));
+	   System.out.println("Length is :"+arr.length);
+	   System.out.println("First index value is "+arr[0]);
+	   System.out.println("Last index value is "+arr[arr.length - 1]);
+
+	}
+
+}
