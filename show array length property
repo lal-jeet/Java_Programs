@@ -1,5 +1,5 @@
 WAP to show array length property is created during runtime
-package com.ravi.array_programs;
+package com.array_programs;
 
 import java.util.Arrays;
 
