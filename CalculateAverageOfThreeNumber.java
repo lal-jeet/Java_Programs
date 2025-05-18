@@ -3,7 +3,7 @@ package com.demo1;
 public class CalculateAverageOfThreeNumber {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub  
 		int a = Integer.parseInt(args[0]);
 		int b = Integer.parseInt(args[1]);
 		int c = Integer.parseInt(args[2]);
